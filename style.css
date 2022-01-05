@@ -1,0 +1,19 @@
+.welcome{
+    font-family: 'Island Moments', cursive;
+    
+    font-size: 30px;
+    
+}
+
+.begin{
+    display: flex;
+}
+.pop{
+    font-family: 'Island Moments', cursive;
+    font-size: 40px;
+    
+    padding: 8%;
+}
+.pop img{
+    width: 50%;
+}
